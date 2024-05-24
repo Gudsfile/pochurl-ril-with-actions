@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Gudsfile/Pochurl</id>
     <title>Pochurl - what do I have to read?</title>
-    <updated>2024-05-24T22:43:17.139911</updated>
+    <updated>2024-05-24T23:05:54.199487</updated>
     <generator>https://github.com/Gudsfile/Pochurl</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
 
@@ -399,6 +399,13 @@
 <link href="https://github.com/rodrigobdz/fish-apple-touchbar"></link>
 <updated>2024-05-12 17:15:59.472394</updated>
 <content type="html"><![CDATA[<iframe src="https://github.com/rodrigobdz/fish-apple-touchbar"></iframe>]]></content>
+</entry>
+<entry>
+<title type="html"><![CDATA[dbt unit-test framework]]></title>
+<id>https://medium.com/teads-engineering/dbt-unit-test-framework-72d9ca60c69b</id>
+<link href="https://medium.com/teads-engineering/dbt-unit-test-framework-72d9ca60c69b"></link>
+<updated>2024-05-24 22:56:41</updated>
+<content type="html"><![CDATA[<iframe src="https://medium.com/teads-engineering/dbt-unit-test-framework-72d9ca60c69b"></iframe>]]></content>
 </entry>
 
 </feed>
