@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Gudsfile/Pochurl</id>
     <title>Pochurl - what do I have to read?</title>
-    <updated>2024-05-25T17:32:26.673449</updated>
+    <updated>2024-05-25T20:52:44.658547</updated>
     <generator>https://github.com/Gudsfile/Pochurl</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
 
@@ -28,6 +28,13 @@
 <link href="https://medium.com/teads-engineering/dbt-unit-test-framework-72d9ca60c69b"></link>
 <updated>2024-05-24 22:56:41</updated>
 <content type="html"><![CDATA[<iframe src="https://medium.com/teads-engineering/dbt-unit-test-framework-72d9ca60c69b"></iframe>]]></content>
+</entry>
+<entry>
+<title type="html"><![CDATA[security-tips-raspberry-pi]]></title>
+<id>https://raspberrytips.com/security-tips-raspberry-pi/</id>
+<link href="https://raspberrytips.com/security-tips-raspberry-pi/"></link>
+<updated>2024-05-25 20:51:28</updated>
+<content type="html"><![CDATA[<iframe src="https://raspberrytips.com/security-tips-raspberry-pi/"></iframe>]]></content>
 </entry>
 
 </feed>
